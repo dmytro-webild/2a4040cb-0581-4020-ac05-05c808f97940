@@ -59,10 +59,10 @@ export default function LandingPage() {
           buttonAnimation="slide-up"
           mediaItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/abandoned-sanitarium_181624-18703.jpg",              imageAlt: "InterContinental Tashkent luxury hotel exterior and skyline"
+              imageSrc: "http://img.b2bpic.net/free-photo/abandoned-sanitarium_181624-18703.jpg?_wi=1",              imageAlt: "InterContinental Tashkent luxury hotel exterior and skyline"
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-young-caucasian-female-with-long-blonde-hair-nice-face-bright-earrings-white-suit_132075-9621.jpg",              imageAlt: "Premium hotel bedroom with modern luxury design"
+              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-young-caucasian-female-with-long-blonde-hair-nice-face-bright-earrings-white-suit_132075-9621.jpg?_wi=1",              imageAlt: "Premium hotel bedroom with modern luxury design"
             }
           ]}
           mediaAnimation="slide-up"
@@ -94,27 +94,27 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "High-Speed Wi-Fi",              description: "Stay connected with complimentary high-speed internet throughout the hotel and all rooms.",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-young-asian-woman-relaxing-around-swimming-pool-resort-hotel-vacation_74190-16337.jpg",              imageAlt: "luxury hotel swimming pool resort spa"
+              title: "High-Speed Wi-Fi",              description: "Stay connected with complimentary high-speed internet throughout the hotel and all rooms.",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-young-asian-woman-relaxing-around-swimming-pool-resort-hotel-vacation_74190-16337.jpg?_wi=1",              imageAlt: "luxury hotel swimming pool resort spa"
             },
             {
               id: 2,
-              title: "Gourmet Breakfast",              description: "Start your day with our international buffet breakfast featuring local and global cuisine.",              imageSrc: "http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081876.jpg",              imageAlt: "luxury hotel restaurant elegant dining"
+              title: "Gourmet Breakfast",              description: "Start your day with our international buffet breakfast featuring local and global cuisine.",              imageSrc: "http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081876.jpg?_wi=1",              imageAlt: "luxury hotel restaurant elegant dining"
             },
             {
               id: 3,
-              title: "Complimentary Parking",              description: "Secure underground parking available for all guests at no additional charge.",              imageSrc: "http://img.b2bpic.net/free-photo/spa-composition-with-towels-wooden-plate-blurred-background_169016-27521.jpg",              imageAlt: "luxury hotel spa wellness center"
+              title: "Complimentary Parking",              description: "Secure underground parking available for all guests at no additional charge.",              imageSrc: "http://img.b2bpic.net/free-photo/spa-composition-with-towels-wooden-plate-blurred-background_169016-27521.jpg?_wi=1",              imageAlt: "luxury hotel spa wellness center"
             },
             {
               id: 4,
-              title: "Olympic-Size Pool",              description: "Relax in our pristine swimming pool and spa facilities with premium amenities.",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-young-asian-woman-relaxing-around-swimming-pool-resort-hotel-vacation_74190-16337.jpg",              imageAlt: "luxury hotel swimming pool resort spa"
+              title: "Olympic-Size Pool",              description: "Relax in our pristine swimming pool and spa facilities with premium amenities.",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-young-asian-woman-relaxing-around-swimming-pool-resort-hotel-vacation_74190-16337.jpg?_wi=2",              imageAlt: "luxury hotel swimming pool resort spa"
             },
             {
               id: 5,
-              title: "Climate Control",              description: "Individual air conditioning and heating systems in every room for ultimate comfort.",              imageSrc: "http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081876.jpg",              imageAlt: "luxury hotel restaurant elegant dining"
+              title: "Climate Control",              description: "Individual air conditioning and heating systems in every room for ultimate comfort.",              imageSrc: "http://img.b2bpic.net/free-photo/people-having-dinner-luxurious-restaurants_23-2151081876.jpg?_wi=2",              imageAlt: "luxury hotel restaurant elegant dining"
             },
             {
               id: 6,
-              title: "24/7 Concierge",              description: "Our dedicated concierge team is available round-the-clock to assist with all your needs.",              imageSrc: "http://img.b2bpic.net/free-photo/spa-composition-with-towels-wooden-plate-blurred-background_169016-27521.jpg",              imageAlt: "luxury hotel spa wellness center"
+              title: "24/7 Concierge",              description: "Our dedicated concierge team is available round-the-clock to assist with all your needs.",              imageSrc: "http://img.b2bpic.net/free-photo/spa-composition-with-towels-wooden-plate-blurred-background_169016-27521.jpg?_wi=2",              imageAlt: "luxury hotel spa wellness center"
             }
           ]}
         />
@@ -133,7 +133,7 @@ export default function LandingPage() {
           gridVariant="three-columns-all-equal-width"
           products={[
             {
-              id: "deluxe",              name: "Deluxe Room",              price: "3,500,000 UZS",              imageSrc: "http://img.b2bpic.net/free-photo/pillow-bed-decoration-bedroom_1339-7403.jpg",              imageAlt: "Luxurious deluxe hotel room with king bed"
+              id: "deluxe",              name: "Deluxe Room",              price: "3,500,000 UZS",              imageSrc: "http://img.b2bpic.net/free-photo/pillow-bed-decoration-bedroom_1339-7403.jpg?_wi=1",              imageAlt: "Luxurious deluxe hotel room with king bed"
             },
             {
               id: "suite",              name: "Executive Suite",              price: "5,200,000 UZS",              imageSrc: "http://img.b2bpic.net/free-photo/full-length-stock-photo-attractive-blonde-caucasian-adult-woman-beige-heels-green-formal-dress-sitting-grey-modern-couch-table-with-red-roses_132075-8159.jpg",              imageAlt: "Spacious executive suite with living area"
@@ -159,17 +159,17 @@ export default function LandingPage() {
             {
               id: "official",              title: "Official Website",              price: "3,500,000",              period: "UZS/Night",              features: ["Free Cancellation", "Complimentary Breakfast", "Late Checkout"],
               button: { text: "Book Now", href: "#contact" },
-              imageSrc: "http://img.b2bpic.net/free-photo/abandoned-sanitarium_181624-18703.jpg",              imageAlt: "InterContinental Tashkent exterior"
+              imageSrc: "http://img.b2bpic.net/free-photo/abandoned-sanitarium_181624-18703.jpg?_wi=2",              imageAlt: "InterContinental Tashkent exterior"
             },
             {
               id: "tripcom",              title: "Trip.com",              price: "3,650,000",              period: "UZS/Night",              features: ["Standard Terms", "No Extras Included", "Platform Fees Apply"],
               button: { text: "View on Trip.com", href: "#" },
-              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-young-caucasian-female-with-long-blonde-hair-nice-face-bright-earrings-white-suit_132075-9621.jpg",              imageAlt: "Hotel room preview"
+              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-young-caucasian-female-with-long-blonde-hair-nice-face-bright-earrings-white-suit_132075-9621.jpg?_wi=2",              imageAlt: "Hotel room preview"
             },
             {
               id: "booking",              title: "Booking.com",              price: "3,700,000",              period: "UZS/Night",              features: ["Flexible Cancellation", "No Breakfast Included", "Booking.com Fees"],
               button: { text: "View on Booking.com", href: "#" },
-              imageSrc: "http://img.b2bpic.net/free-photo/pillow-bed-decoration-bedroom_1339-7403.jpg",              imageAlt: "Deluxe room"
+              imageSrc: "http://img.b2bpic.net/free-photo/pillow-bed-decoration-bedroom_1339-7403.jpg?_wi=2",              imageAlt: "Deluxe room"
             }
           ]}
         />
